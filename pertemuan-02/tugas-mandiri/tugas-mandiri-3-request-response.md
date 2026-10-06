@@ -25,8 +25,7 @@ Query parameter adalah informasi tambahan yang dikirim melalui URL dan biasanya 
 ## Dokumentasi
 ### Response GET /get
 
-![Response GET](images/02-get-response.png)
-### Response GET /headers
+![Response GET](backend/images/02-get-response.png)
 
-![Response Headers](images/04-headers-response.png)
+![Response Headers](backend/images/04-headers-response.png)
 
